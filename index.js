@@ -2,7 +2,7 @@
 var express = require('express');
 var app = express();
 var os = require('os')
-var version = "v2"
+var version = "v3"
 
 app.get('/', function (req, res) {
   
